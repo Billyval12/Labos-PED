@@ -1,4 +1,5 @@
 #include <iostream>
+#include <strings.h>
 using namespace std;
 
 struct ordPupusas
@@ -106,8 +107,9 @@ int main(){
         cin>>cantidad;
         cout<<"De que tipo desea la masa (Arroz/Maiz): "<<endl;
         cin>>tipo;
+        cin.ignore();
         cout<<"De que ingrediente desea ordenar sus pupusas (Queso,Frijol/Queso,Revueltas)"<<endl;
-        cin>>ingredientes;
+        getline(cin,ingredientes);
         cout<<"Desea agregar Coca-Cola? (Si/No)"<<endl;
         cin>>soda;
         cin.ignore();

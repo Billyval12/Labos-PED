@@ -1,0 +1,134 @@
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Inicio.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Areas.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Colecciones.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Ejemplares.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Eventos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Pisos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Prestamos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Reservas.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Usuarios.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Login.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Areas.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Colecciones.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Ejemplares.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Eventos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Inicio.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Login.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Pisos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Prestamos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Reservas.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Usuarios.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Areas.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Colecciones.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Ejemplares.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Eventos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Inicio.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Login.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Pisos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Prestamos.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Reservas.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Usuarios.resources
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Areas.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Colecciones.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Ejemplares.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Eventos.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Inicio.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Login.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Pisos.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Prestamos.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Reservas.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Usuarios.resources
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\ferna\OneDrive\Escritorio\Ciclo 03\POO\Proyecto\version2\PROJECT\PROJECT\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Areas.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Colecciones.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Ejemplares.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Eventos.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Inicio.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Login.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Pisos.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Prestamos.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Reservas.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Usuarios.resources
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\ricar\OneDrive\Desktop\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Bienvenida.resources
+C:\Users\drher\Downloads\PROYECTO OFICIAL\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\drher\Downloads\PROYECTO OFICIAL\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\drher\Downloads\PROYECTO OFICIAL\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\drher\Downloads\PROYECTO OFICIAL\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\drher\Desktop\Proyecto--Add_Billy\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\drher\Desktop\Proyecto--Add_Billy\PROYECTO OFICIAL\PROJECT\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Areas.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Bienvenida.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Colecciones.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Ejemplares.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Eventos.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Inicio.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Login.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Pisos.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Prestamos.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Reservas.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Usuarios.resources
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\drher\Desktop\POO\Proyecto-BD-POO\PROJECT PARTE BILLY\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
